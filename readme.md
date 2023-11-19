@@ -41,7 +41,7 @@ pip3 install --upgrade selenium
 
 </br>
 
-# 📢 해결한 이슈 & 알게된 것
+# 📢 참고 링크
 
 - [https://ddingmin00.tistory.com/entry/mac-m1-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-Selenium-Chromedriver-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0](https://ddingmin00.tistory.com/entry/mac-m1-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-Selenium-Chromedriver-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
 - [https://velog.io/@parkeu/youtubecomment](https://velog.io/@parkeu/youtubecomment)
